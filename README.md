@@ -1,0 +1,2 @@
+# ilk-deneme
+github öğreniyorum
